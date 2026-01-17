@@ -29,7 +29,10 @@ The **Friends and Family Restaurant Website** is a full-stack web application th
   - EJS for templating.  
   - Bootstrap, HTML, CSS, and JavaScript for responsive and interactive design.  
 - **Authentication & Authorization:**  
-  - Passport.js with Express Session for secure login and role-based access control.  
+  - Passport.js with Express Session for secure login and role-based access control.
+ 
+  - ## GitHub Link
+  - https://github.com/Sakshic12/restraunt-website
 
 
 
